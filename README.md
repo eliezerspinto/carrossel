@@ -1,2 +1,2 @@
 # carrossel
-testes
+Fase de testes para subida e atualização de rotas
